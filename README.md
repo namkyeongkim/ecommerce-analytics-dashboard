@@ -172,9 +172,6 @@ The dashboard includes:
 ```text
 ecommerce-analytics-dashboard/
 │
-├── data/
-│   └── online_retail.csv
-│
 ├── notebooks/
 │   └── ecommerce_analysis.ipynb
 │
